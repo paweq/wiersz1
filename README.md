@@ -1,3 +1,3 @@
 # wiersz1
 
-Był ciepły pogodny dzień
+był ciepły pogodny dzien
