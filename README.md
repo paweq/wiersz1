@@ -9,3 +9,5 @@ i jak drzewa pień
 A obok stanął dureń
 
 a pies miał na imię Żurek
+
+ pozdrawiam dobranoc
